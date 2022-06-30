@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20220625 - 185557
+  m_EditorClassIdentifier: 
+  m_name: Session 20220625-185557
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 6/25/2022 6:55:57 PM
+  m_terrainWidth: 1024
+  m_terrainDepth: 1024
+  m_terrainHeight: 1024
+  m_seaLevel: 796.7
+  m_spawnDensity: 0.8
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: 'Creating World: 2 x 2 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 6/25/2022 6:55:58 PM
+    scriptableObjectAssetGUID: 3338f0dd89ac2344aaa13dd58f3a872f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - DanyoreMap
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20220625 - 185558
+    - Terrain_0_1-20220625 - 185558
+    - Terrain_1_0-20220625 - 185558
+    - Terrain_1_1-20220625 - 185558
+    m_operationDateTime: 6/25/2022 7:08:04 PM
+    scriptableObjectAssetGUID: fffd9f0e801ce514692bf57e3bc282d6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20220625 - 185558
+    - Terrain_0_1-20220625 - 185558
+    - Terrain_1_0-20220625 - 185558
+    - Terrain_1_1-20220625 - 185558
+    m_operationDateTime: 6/25/2022 7:08:08 PM
+    scriptableObjectAssetGUID: 4b59129bb48175e46a0b9ae402982568
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 2 x 2 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 6/25/2022 7:19:46 PM
+    scriptableObjectAssetGUID: 91b76ff9c8924d44e9bdcd0471d592d5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 104fd7923d91b32448c30957cc47c08c
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 372.38068
+  - guid: 7b08fd0eec53e074995723d258311fed
+    isWorldmap: 0
+    recalculate: 0
+    min: 0.031250477
+    max: 372.72443
+  - guid: 40cfc3b4499128143b23af80640b0be7
+    isWorldmap: 0
+    recalculate: 0
+    min: 0.18750286
+    max: 372.66193
+  - guid: b394864f0027ffd48a7db1d23f565a10
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 370.7244
+  - guid: 2b31f26a6218200428b3fabd85fe4180
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: c2b47432be4158c47834a8cbce420eab
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 9015e3077c8e8aa4986100c8ec8a82ee
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: d0a89298316b21a448fa11d46df15351
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries: []
+  m_worldBiomeMaskSettings: {fileID: 0}
