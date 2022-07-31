@@ -23,7 +23,7 @@ MonoBehaviour:
   m_terrainWidth: 1024
   m_terrainDepth: 1024
   m_terrainHeight: 1024
-  m_seaLevel: 125
+  m_seaLevel: 0
   m_spawnDensity: 0.8
   m_isLocked: 0
   m_previewImageBytes: 
@@ -50,7 +50,7 @@ MonoBehaviour:
     - Terrain_1_1-20220731 - 145818
     m_operationDateTime: 7/31/2022 3:31:02 PM
     scriptableObjectAssetGUID: 9aaf2f64a39c60844b35c9af28afa975
-    m_isFoldedOut: 0
+    m_isFoldedOut: 1
     sessionPlaybackState: 1
     m_terrainsFoldedOut: 0
     m_serializedExternalAction: 
@@ -58,13 +58,13 @@ MonoBehaviour:
     m_operationType: 7
     m_isActive: 1
     m_affectedTerrainNames:
-    - Terrain_0_0-20220731 - 145818
-    - Terrain_0_1-20220731 - 145818
     - Terrain_1_0-20220731 - 145818
+    - Terrain_0_1-20220731 - 145818
+    - Terrain_0_0-20220731 - 145818
     - Terrain_1_1-20220731 - 145818
     m_operationDateTime: 7/31/2022 3:31:13 PM
     scriptableObjectAssetGUID: 541536e2668ecfc4ebe8c72e4052d0d3
-    m_isFoldedOut: 0
+    m_isFoldedOut: 1
     sessionPlaybackState: 1
     m_terrainsFoldedOut: 0
     m_serializedExternalAction: 
@@ -86,13 +86,13 @@ MonoBehaviour:
     m_operationType: 7
     m_isActive: 1
     m_affectedTerrainNames:
-    - Terrain_1_1-20220731 - 145818
     - Terrain_1_0-20220731 - 145818
     - Terrain_0_1-20220731 - 145818
     - Terrain_0_0-20220731 - 145818
+    - Terrain_1_1-20220731 - 145818
     m_operationDateTime: 7/31/2022 4:12:22 PM
     scriptableObjectAssetGUID: d51a9bc413e78f540a238670977f4e27
-    m_isFoldedOut: 0
+    m_isFoldedOut: 1
     sessionPlaybackState: 1
     m_terrainsFoldedOut: 0
     m_serializedExternalAction: 
@@ -142,13 +142,80 @@ MonoBehaviour:
     m_operationType: 7
     m_isActive: 1
     m_affectedTerrainNames:
-    - Terrain_1_1-20220731 - 145818
     - Terrain_1_0-20220731 - 145818
     - Terrain_0_1-20220731 - 145818
     - Terrain_0_0-20220731 - 145818
+    - Terrain_1_1-20220731 - 145818
     m_operationDateTime: 7/31/2022 4:34:12 PM
     scriptableObjectAssetGUID: 90437511deefeef4d9216b1f8a98542e
+    m_isFoldedOut: 1
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Fern(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_1-20220731 - 145818
+    m_operationDateTime: 7/31/2022 4:45:25 PM
+    scriptableObjectAssetGUID: f21c5b4fe5cbd3f489f2332c6aad288b
     m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_0-20220731 - 145818
+    - Terrain_0_1-20220731 - 145818
+    - Terrain_0_0-20220731 - 145818
+    - Terrain_1_1-20220731 - 145818
+    m_operationDateTime: 7/31/2022 4:53:12 PM
+    scriptableObjectAssetGUID: a5eafa6bf9d479a4386ee6a49bcb0fb0
+    m_isFoldedOut: 1
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Audio(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_0-20220731 - 145818
+    - Terrain_0_1-20220731 - 145818
+    - Terrain_0_0-20220731 - 145818
+    - Terrain_1_1-20220731 - 145818
+    m_operationDateTime: 7/31/2022 4:54:52 PM
+    scriptableObjectAssetGUID: d833d2d61fe851740bc00751df088665
+    m_isFoldedOut: 1
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Bushes(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_0-20220731 - 145818
+    - Terrain_0_1-20220731 - 145818
+    - Terrain_0_0-20220731 - 145818
+    - Terrain_1_1-20220731 - 145818
+    m_operationDateTime: 7/31/2022 4:55:12 PM
+    scriptableObjectAssetGUID: 721390e8c62ff964b87e7c6938ac1e0b
+    m_isFoldedOut: 1
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-VFX(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_0-20220731 - 145818
+    - Terrain_0_1-20220731 - 145818
+    - Terrain_0_0-20220731 - 145818
+    - Terrain_1_1-20220731 - 145818
+    m_operationDateTime: 7/31/2022 4:56:31 PM
+    scriptableObjectAssetGUID: 1afc7ce34377ffa43a03ee3e631f11e4
+    m_isFoldedOut: 1
     sessionPlaybackState: 1
     m_terrainsFoldedOut: 0
     m_serializedExternalAction: 
@@ -170,56 +237,56 @@ MonoBehaviour:
     max: 136.34583
   - guid: c98b34db1e837f142a10a9db000b00ec
     isWorldmap: 0
-    recalculate: 1
+    recalculate: 0
     min: 43.500664
     max: 136.34583
   m_bakedMaskCacheEntries:
-  - fileName: Terrain_1_1-20220731 - 145818_LayerGameObject_3584_2
-    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220731
-      - 145818/Terrain_1_1-20220731 - 145818_LayerGameObject_3584_2
-    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220731
-      - 145818/Terrain_1_1-20220731 - 145818_LayerGameObject_3584_2
-    texture: {fileID: 0}
-  - fileName: Terrain_1_1-20220731 - 145818_LayerTree_3584_-0.2
-    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220731
-      - 145818/Terrain_1_1-20220731 - 145818_LayerTree_3584_-0.2
-    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220731
-      - 145818/Terrain_1_1-20220731 - 145818_LayerTree_3584_-0.2
-    texture: {fileID: 0}
-  - fileName: Terrain_1_0-20220731 - 145818_LayerGameObject_3584_2
+  - fileName: Terrain_1_0-20220731 - 145818_LayerTree_1024_0
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_0-20220731
-      - 145818/Terrain_1_0-20220731 - 145818_LayerGameObject_3584_2
+      - 145818/Terrain_1_0-20220731 - 145818_LayerTree_1024_0
     fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_0-20220731
-      - 145818/Terrain_1_0-20220731 - 145818_LayerGameObject_3584_2
+      - 145818/Terrain_1_0-20220731 - 145818_LayerTree_1024_0
     texture: {fileID: 0}
-  - fileName: Terrain_1_0-20220731 - 145818_LayerTree_3584_-0.2
+  - fileName: Terrain_1_0-20220731 - 145818_LayerTree_2048_0
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_0-20220731
-      - 145818/Terrain_1_0-20220731 - 145818_LayerTree_3584_-0.2
+      - 145818/Terrain_1_0-20220731 - 145818_LayerTree_2048_0
     fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_0-20220731
-      - 145818/Terrain_1_0-20220731 - 145818_LayerTree_3584_-0.2
+      - 145818/Terrain_1_0-20220731 - 145818_LayerTree_2048_0
     texture: {fileID: 0}
-  - fileName: Terrain_0_1-20220731 - 145818_LayerGameObject_3584_2
+  - fileName: Terrain_0_1-20220731 - 145818_LayerTree_1024_0
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_1-20220731
-      - 145818/Terrain_0_1-20220731 - 145818_LayerGameObject_3584_2
+      - 145818/Terrain_0_1-20220731 - 145818_LayerTree_1024_0
     fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_1-20220731
-      - 145818/Terrain_0_1-20220731 - 145818_LayerGameObject_3584_2
+      - 145818/Terrain_0_1-20220731 - 145818_LayerTree_1024_0
     texture: {fileID: 0}
-  - fileName: Terrain_0_1-20220731 - 145818_LayerTree_3584_-0.2
+  - fileName: Terrain_0_1-20220731 - 145818_LayerTree_2048_0
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_1-20220731
-      - 145818/Terrain_0_1-20220731 - 145818_LayerTree_3584_-0.2
+      - 145818/Terrain_0_1-20220731 - 145818_LayerTree_2048_0
     fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_1-20220731
-      - 145818/Terrain_0_1-20220731 - 145818_LayerTree_3584_-0.2
+      - 145818/Terrain_0_1-20220731 - 145818_LayerTree_2048_0
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20220731 - 145818_LayerGameObject_3584_2
+  - fileName: Terrain_0_0-20220731 - 145818_LayerTree_1024_0
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20220731
-      - 145818/Terrain_0_0-20220731 - 145818_LayerGameObject_3584_2
+      - 145818/Terrain_0_0-20220731 - 145818_LayerTree_1024_0
     fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20220731
-      - 145818/Terrain_0_0-20220731 - 145818_LayerGameObject_3584_2
+      - 145818/Terrain_0_0-20220731 - 145818_LayerTree_1024_0
     texture: {fileID: 0}
-  - fileName: Terrain_0_0-20220731 - 145818_LayerTree_3584_-0.2
+  - fileName: Terrain_0_0-20220731 - 145818_LayerTree_2048_0
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20220731
-      - 145818/Terrain_0_0-20220731 - 145818_LayerTree_3584_-0.2
+      - 145818/Terrain_0_0-20220731 - 145818_LayerTree_2048_0
     fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20220731
-      - 145818/Terrain_0_0-20220731 - 145818_LayerTree_3584_-0.2
+      - 145818/Terrain_0_0-20220731 - 145818_LayerTree_2048_0
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220731 - 145818_LayerTree_1024_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220731
+      - 145818/Terrain_1_1-20220731 - 145818_LayerTree_1024_0
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220731
+      - 145818/Terrain_1_1-20220731 - 145818_LayerTree_1024_0
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220731 - 145818_LayerTree_2048_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220731
+      - 145818/Terrain_1_1-20220731 - 145818_LayerTree_2048_0
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220731
+      - 145818/Terrain_1_1-20220731 - 145818_LayerTree_2048_0
     texture: {fileID: 0}
   m_worldBiomeMaskSettings: {fileID: 0}
