@@ -1,0 +1,503 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20220916 - 214800
+  m_EditorClassIdentifier: 
+  m_name: Session 20220916-214800
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 9/16/2022 9:48:00 PM
+  m_terrainWidth: 1024
+  m_terrainDepth: 1024
+  m_terrainHeight: 1024
+  m_seaLevel: 206.9
+  m_spawnDensity: 0.8
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: 'Creating World: 2 x 2 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 9/16/2022 9:48:04 PM
+    scriptableObjectAssetGUID: e9cc17a06f5f81c4a9cbba74e29a5002
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Updating World To: 2 x 2 tiles, tile size: 512'
+    m_operationType: 14
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 9/16/2022 10:03:38 PM
+    scriptableObjectAssetGUID: 0ccc71822976d2d4094b7abb5a64df9d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 2 x 2 tiles, tile size: 512'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 9/16/2022 10:05:02 PM
+    scriptableObjectAssetGUID: b0705ff15b2ca434c862ce29775bcf42
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 4 x 4 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 9/16/2022 10:05:46 PM
+    scriptableObjectAssetGUID: ad5d4e998a3689c448bb921504b4024e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - Map3_png
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_1-20220916 - 220546
+    - Terrain_1_2-20220916 - 220546
+    - Terrain_2_1-20220916 - 220546
+    - Terrain_2_2-20220916 - 220546
+    m_operationDateTime: 9/16/2022 10:10:45 PM
+    scriptableObjectAssetGUID: 67bf0792c4c8a304393f5c4877219c41
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_1-20220916 - 220546
+    - Terrain_1_2-20220916 - 220546
+    - Terrain_2_1-20220916 - 220546
+    - Terrain_2_2-20220916 - 220546
+    m_operationDateTime: 9/16/2022 10:10:50 PM
+    scriptableObjectAssetGUID: dc65b4f49950d4a459d60a96d64eff02
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - Map3_png
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_1-20220916 - 220546
+    - Terrain_1_2-20220916 - 220546
+    - Terrain_2_1-20220916 - 220546
+    - Terrain_2_2-20220916 - 220546
+    m_operationDateTime: 9/16/2022 10:11:50 PM
+    scriptableObjectAssetGUID: aa2b100949cd2d04d889cb6f32a08a9d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Alpine Meadow-Textures(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_1-20220916 - 220546
+    - Terrain_1_2-20220916 - 220546
+    - Terrain_2_1-20220916 - 220546
+    - Terrain_2_2-20220916 - 220546
+    m_operationDateTime: 9/16/2022 10:11:57 PM
+    scriptableObjectAssetGUID: 36e7fcacb22b0c5408642b283026946e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (10)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_1-20220916 - 220546
+    - Terrain_1_2-20220916 - 220546
+    - Terrain_2_1-20220916 - 220546
+    - Terrain_2_2-20220916 - 220546
+    m_operationDateTime: 9/16/2022 10:14:02 PM
+    scriptableObjectAssetGUID: 0051a0012651c6a40bc77e14ca7c69c4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (10)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_1_1-20220916 - 220546
+    - Terrain_1_2-20220916 - 220546
+    - Terrain_2_1-20220916 - 220546
+    - Terrain_2_2-20220916 - 220546
+    m_operationDateTime: 9/16/2022 10:24:09 PM
+    scriptableObjectAssetGUID: 80f3cd3d9d21535459aa15b3af8c9c38
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: bac34127345d74e479bd45e8ba04271b
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: a691589c0e7fe9f47b499fccd3325f71
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 5bdade14928cabc47942327ccbcb5d3e
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 14616cde882f22142844c840b05f45f2
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 3e34d4df968166249bf6b105e1c46360
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: d267d1711d54f3a4c990dd387cc13262
+    isWorldmap: 0
+    recalculate: 0
+    min: 199.9093
+    max: 308.2547
+  - guid: fc6e7acae871ff34da9ab786071277a7
+    isWorldmap: 0
+    recalculate: 0
+    min: 230.87852
+    max: 323.75494
+  - guid: 8d71750889a99d248a2d7a0eb186273c
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: d5bd0bbe78ab35749a5f23b7fb70672e
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 42c65f723b8bed3429e0fd031c379fb3
+    isWorldmap: 0
+    recalculate: 0
+    min: 190.22165
+    max: 261.8165
+  - guid: e008db8ec13486546b2bb72d4ff57f57
+    isWorldmap: 0
+    recalculate: 0
+    min: 230.87852
+    max: 400.72485
+  - guid: 2cb1b6f977044a144a8bb101fe3f6c30
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: e5a2fec68896fc742a85a0b0d1a5824a
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: b8f36c54543c9d24fa27d9db65ae4e58
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 4521db02afa45d64d8cbe33ed763d24a
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 64a526983cc802540accf6ae43c39975
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_1_1-20220916 - 220546_LayerGameObject_3584_12
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_3584_12
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_3584_12
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220916 - 220546_LayerTree_3584_5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerTree_3584_5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerTree_3584_5
+    texture: {fileID: 0}
+  - fileName: Terrain_1_2-20220916 - 220546_LayerGameObject_3584_12
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_3584_12
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_3584_12
+    texture: {fileID: 0}
+  - fileName: Terrain_1_2-20220916 - 220546_LayerTree_3584_5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerTree_3584_5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerTree_3584_5
+    texture: {fileID: 0}
+  - fileName: Terrain_2_1-20220916 - 220546_LayerGameObject_3584_12
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_3584_12
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_3584_12
+    texture: {fileID: 0}
+  - fileName: Terrain_2_1-20220916 - 220546_LayerTree_3584_5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerTree_3584_5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerTree_3584_5
+    texture: {fileID: 0}
+  - fileName: Terrain_2_2-20220916 - 220546_LayerGameObject_3584_12
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_3584_12
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_3584_12
+    texture: {fileID: 0}
+  - fileName: Terrain_2_2-20220916 - 220546_LayerTree_3584_5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerTree_3584_5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerTree_3584_5
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220916 - 220546_LayerGameObject_3584_2.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_3584_2.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_3584_2.5
+    texture: {fileID: 0}
+  - fileName: Terrain_1_2-20220916 - 220546_LayerGameObject_3584_2.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_3584_2.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_3584_2.5
+    texture: {fileID: 0}
+  - fileName: Terrain_2_1-20220916 - 220546_LayerGameObject_3584_2.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_3584_2.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_3584_2.5
+    texture: {fileID: 0}
+  - fileName: Terrain_2_2-20220916 - 220546_LayerGameObject_3584_2.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_3584_2.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_3584_2.5
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220916 - 220546_LayerGameObject_2560_-0.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_2560_-0.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_2560_-0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220916 - 220546_LayerGameObject_512_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_512_2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_512_2
+    texture: {fileID: 0}
+  - fileName: Terrain_1_2-20220916 - 220546_LayerGameObject_2560_-0.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_2560_-0.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_2560_-0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_1_2-20220916 - 220546_LayerGameObject_512_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_512_2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_512_2
+    texture: {fileID: 0}
+  - fileName: Terrain_2_1-20220916 - 220546_LayerGameObject_2560_-0.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_2560_-0.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_2560_-0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_2_1-20220916 - 220546_LayerGameObject_512_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_512_2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_512_2
+    texture: {fileID: 0}
+  - fileName: Terrain_2_2-20220916 - 220546_LayerGameObject_2560_-0.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_2560_-0.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_2560_-0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_2_2-20220916 - 220546_LayerGameObject_512_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_512_2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_512_2
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220916 - 220546_LayerGameObject_3584_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_3584_2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_3584_2
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220916 - 220546_LayerTree_3584_-0.2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerTree_3584_-0.2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerTree_3584_-0.2
+    texture: {fileID: 0}
+  - fileName: Terrain_1_2-20220916 - 220546_LayerGameObject_3584_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_3584_2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_3584_2
+    texture: {fileID: 0}
+  - fileName: Terrain_1_2-20220916 - 220546_LayerTree_3584_-0.2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerTree_3584_-0.2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerTree_3584_-0.2
+    texture: {fileID: 0}
+  - fileName: Terrain_2_1-20220916 - 220546_LayerGameObject_3584_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_3584_2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_3584_2
+    texture: {fileID: 0}
+  - fileName: Terrain_2_1-20220916 - 220546_LayerTree_3584_-0.2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerTree_3584_-0.2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerTree_3584_-0.2
+    texture: {fileID: 0}
+  - fileName: Terrain_2_2-20220916 - 220546_LayerGameObject_3584_2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_3584_2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_3584_2
+    texture: {fileID: 0}
+  - fileName: Terrain_2_2-20220916 - 220546_LayerTree_3584_-0.2
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerTree_3584_-0.2
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerTree_3584_-0.2
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220916 - 220546_LayerGameObject_3584_1.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_3584_1.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_3584_1.5
+    texture: {fileID: 0}
+  - fileName: Terrain_1_2-20220916 - 220546_LayerGameObject_3584_1.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_3584_1.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_3584_1.5
+    texture: {fileID: 0}
+  - fileName: Terrain_2_1-20220916 - 220546_LayerGameObject_3584_1.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_3584_1.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_3584_1.5
+    texture: {fileID: 0}
+  - fileName: Terrain_2_2-20220916 - 220546_LayerGameObject_3584_1.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_3584_1.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_3584_1.5
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220916 - 220546_LayerGameObject_3584_0.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_3584_0.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerGameObject_3584_0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_1_2-20220916 - 220546_LayerGameObject_3584_0.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_3584_0.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerGameObject_3584_0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_2_1-20220916 - 220546_LayerGameObject_3584_0.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_3584_0.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerGameObject_3584_0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_2_2-20220916 - 220546_LayerGameObject_3584_0.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_3584_0.5
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerGameObject_3584_0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220916 - 220546_LayerTree_1024_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerTree_1024_0
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerTree_1024_0
+    texture: {fileID: 0}
+  - fileName: Terrain_1_1-20220916 - 220546_LayerTree_2048_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerTree_2048_0
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_1-20220916
+      - 220546/Terrain_1_1-20220916 - 220546_LayerTree_2048_0
+    texture: {fileID: 0}
+  - fileName: Terrain_1_2-20220916 - 220546_LayerTree_1024_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerTree_1024_0
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerTree_1024_0
+    texture: {fileID: 0}
+  - fileName: Terrain_1_2-20220916 - 220546_LayerTree_2048_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerTree_2048_0
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_1_2-20220916
+      - 220546/Terrain_1_2-20220916 - 220546_LayerTree_2048_0
+    texture: {fileID: 0}
+  - fileName: Terrain_2_1-20220916 - 220546_LayerTree_1024_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerTree_1024_0
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerTree_1024_0
+    texture: {fileID: 0}
+  - fileName: Terrain_2_1-20220916 - 220546_LayerTree_2048_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerTree_2048_0
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_1-20220916
+      - 220546/Terrain_2_1-20220916 - 220546_LayerTree_2048_0
+    texture: {fileID: 0}
+  - fileName: Terrain_2_2-20220916 - 220546_LayerTree_1024_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerTree_1024_0
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerTree_1024_0
+    texture: {fileID: 0}
+  - fileName: Terrain_2_2-20220916 - 220546_LayerTree_2048_0
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerTree_2048_0
+    fullPath: D:/Unity Games/Coursera Practice/GameEnv/Gaia-/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_2_2-20220916
+      - 220546/Terrain_2_2-20220916 - 220546_LayerTree_2048_0
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}
