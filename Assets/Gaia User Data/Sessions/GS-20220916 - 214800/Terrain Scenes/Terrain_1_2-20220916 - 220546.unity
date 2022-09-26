@@ -12674,7 +12674,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1102799848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12998,7 +12998,7 @@ PrefabInstance:
     - target: {fileID: 2829779648386317043, guid: 8825899e2f9d04f42b1a0eb967ccb6e0, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 1494286e4651caa4ca17d74679dde98f, type: 3}
+      objectReference: {fileID: 8300000, guid: 5e0b7dff8fbc0634aa781a4953fc6d70, type: 3}
     - target: {fileID: 7954932900371079467, guid: 8825899e2f9d04f42b1a0eb967ccb6e0, type: 3}
       propertyPath: m_Name
       value: _Sp_Global Mood - Distant Storm
@@ -18991,8 +18991,6 @@ MonoBehaviour:
     m_isVisible: 1
   - m_name: PW_Tree_Stump_05
     m_isVisible: 1
-  - m_name: PW_Tree_Stump_04_02
-    m_isVisible: 1
   - m_name: PW_Tree_Log_02
     m_isVisible: 1
   - m_name: PW_Tree_Dead_03_Fallen
@@ -19012,6 +19010,8 @@ MonoBehaviour:
   - m_name: NatureZone
     m_isVisible: 1
   - m_name: WinterZone
+    m_isVisible: 1
+  - m_name: PW_Tree_Stump_04_02
     m_isVisible: 1
   - m_name: Small Farm 1
     m_isVisible: 1

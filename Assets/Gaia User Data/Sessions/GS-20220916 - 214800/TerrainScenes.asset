@@ -235,7 +235,7 @@ MonoBehaviour:
     m_impostorScenePath: 
     m_backupScenePath: 
     m_colliderScenePath: 
-    m_regularLoadState: 0
+    m_regularLoadState: 1
     m_impostorLoadState: 2
     m_useFloatingPointFix: 1
     m_nextUpdateTimestamp: 0
@@ -244,7 +244,7 @@ MonoBehaviour:
     m_impostorLoadRequested: 0
     m_impostorUnloadRequested: 0
     m_isFoldedOut: 0
-    m_regularCachedTimestamp: 1663348357691
+    m_regularCachedTimestamp: 1664217643855
     m_impostorCachedTimestamp: 0
     m_stitchedWestBorder: 0
     m_stitchedEastBorder: 1
@@ -281,7 +281,7 @@ MonoBehaviour:
     m_impostorLoadRequested: 0
     m_impostorUnloadRequested: 0
     m_isFoldedOut: 0
-    m_regularCachedTimestamp: 1663348357691
+    m_regularCachedTimestamp: 1664217413973
     m_impostorCachedTimestamp: 0
     m_stitchedWestBorder: 0
     m_stitchedEastBorder: 1
@@ -392,7 +392,7 @@ MonoBehaviour:
     m_impostorLoadRequested: 0
     m_impostorUnloadRequested: 0
     m_isFoldedOut: 0
-    m_regularCachedTimestamp: 1663348357692
+    m_regularCachedTimestamp: 1664217413973
     m_impostorCachedTimestamp: 0
     m_stitchedWestBorder: 1
     m_stitchedEastBorder: 0
@@ -429,7 +429,7 @@ MonoBehaviour:
     m_impostorLoadRequested: 0
     m_impostorUnloadRequested: 0
     m_isFoldedOut: 0
-    m_regularCachedTimestamp: 1663348357692
+    m_regularCachedTimestamp: 1664217413973
     m_impostorCachedTimestamp: 0
     m_stitchedWestBorder: 1
     m_stitchedEastBorder: 0
