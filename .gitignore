@@ -70,3 +70,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Gaia User Data/Sessions/GS-20220916 - 214800/TerrainScenes.asset
+Assets/Gaia User Data/Sessions/GS-20221125 - 120244/Gaia Lighting Settings.asset.meta

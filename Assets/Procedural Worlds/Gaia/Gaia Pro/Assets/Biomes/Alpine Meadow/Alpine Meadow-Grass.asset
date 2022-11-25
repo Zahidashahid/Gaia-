@@ -2,15 +2,20 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &-8948289348697330167
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PW_Grass_Dactylis_GlomerataLOD0_7156_41574_19270_5082_27490_41478_-231320_30366_-143928
   m_Shader: {fileID: 4800000, guid: 72462e7bb7591b4418a705a37fe544ac, type: 3}
-  m_ShaderKeywords: _ALPHATEST_ON _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT _DOUBLESIDED_ON
-    _PW_SF_WIND_ON
+  m_ValidKeywords:
+  - _PW_SF_WIND_ON
+  m_InvalidKeywords:
+  - _ALPHATEST_ON
+  - _DISABLE_DECALS
+  - _DISABLE_SSR_TRANSPARENT
+  - _DOUBLESIDED_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 1
@@ -121,6 +126,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - BOOLEAN_39538BE377C8401B940482B739880ACC: 0
     - _AORemapMax: 1
@@ -873,15 +879,20 @@ MonoBehaviour:
   m_subCellDivision: 8
 --- !u!21 &-2416659631490850483
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Flowers RedLOD0_7098_41596_19264_5080_27482_41474_-231312_30362_-143920
   m_Shader: {fileID: 4800000, guid: 72462e7bb7591b4418a705a37fe544ac, type: 3}
-  m_ShaderKeywords: _ALPHATEST_ON _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT _DOUBLESIDED_ON
-    _PW_SF_WIND_ON
+  m_ValidKeywords:
+  - _PW_SF_WIND_ON
+  m_InvalidKeywords:
+  - _ALPHATEST_ON
+  - _DISABLE_DECALS
+  - _DISABLE_SSR_TRANSPARENT
+  - _DOUBLESIDED_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 1
@@ -992,6 +1003,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - BOOLEAN_39538BE377C8401B940482B739880ACC: 0
     - _AORemapMax: 1
@@ -1140,14 +1152,19 @@ Material:
   m_BuildTextureStacks: []
 --- !u!21 &-49934790066281675
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PW_Detail_WildGrass_7132_41568_18806_5092_27474_41476_-231302_30364_-143910
   m_Shader: {fileID: 4800000, guid: 72462e7bb7591b4418a705a37fe544ac, type: 3}
-  m_ShaderKeywords: _ALPHATEST_ON _DISABLE_SSR_TRANSPARENT _DOUBLESIDED_ON _PW_SF_WIND_ON
+  m_ValidKeywords:
+  - _PW_SF_WIND_ON
+  m_InvalidKeywords:
+  - _ALPHATEST_ON
+  - _DISABLE_SSR_TRANSPARENT
+  - _DOUBLESIDED_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 1
@@ -1271,6 +1288,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - BOOLEAN_39538BE377C8401B940482B739880ACC: 0
     - Vector1_95d7235b4e28472c8b43574046d10a99: 0
@@ -8712,15 +8730,20 @@ MonoBehaviour:
   m_subCellDivision: 8
 --- !u!21 &3329969213965738006
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PW_Grass_Pink_Flower_01LOD0_7118_41562_19262_5076_27480_41482_-231308_30368_-143916
   m_Shader: {fileID: 4800000, guid: 72462e7bb7591b4418a705a37fe544ac, type: 3}
-  m_ShaderKeywords: _ALPHATEST_ON _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT _DOUBLESIDED_ON
-    _PW_SF_WIND_ON
+  m_ValidKeywords:
+  - _PW_SF_WIND_ON
+  m_InvalidKeywords:
+  - _ALPHATEST_ON
+  - _DISABLE_DECALS
+  - _DISABLE_SSR_TRANSPARENT
+  - _DOUBLESIDED_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 1
@@ -8831,6 +8854,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - BOOLEAN_39538BE377C8401B940482B739880ACC: 0
     - _AORemapMax: 1
@@ -8979,15 +9003,20 @@ Material:
   m_BuildTextureStacks: []
 --- !u!21 &5871106544696056225
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Flowers PurpleLOD0_7146_41592_19266_5074_27484_41470_-231316_30360_-143924
   m_Shader: {fileID: 4800000, guid: 72462e7bb7591b4418a705a37fe544ac, type: 3}
-  m_ShaderKeywords: _ALPHATEST_ON _DISABLE_DECALS _DISABLE_SSR_TRANSPARENT _DOUBLESIDED_ON
-    _PW_SF_WIND_ON
+  m_ValidKeywords:
+  - _PW_SF_WIND_ON
+  m_InvalidKeywords:
+  - _ALPHATEST_ON
+  - _DISABLE_DECALS
+  - _DISABLE_SSR_TRANSPARENT
+  - _DOUBLESIDED_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 1
@@ -9098,6 +9127,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - BOOLEAN_39538BE377C8401B940482B739880ACC: 0
     - _AORemapMax: 1
