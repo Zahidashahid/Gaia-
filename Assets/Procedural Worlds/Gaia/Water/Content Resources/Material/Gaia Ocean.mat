@@ -108,7 +108,7 @@ Material:
     - _NormalFadeStart: 50
     - _NormalLayer0: 0.4
     - _NormalLayer0Scale: 0.4
-    - _NormalLayer1: 0.4
+    - _NormalLayer1: 0.6
     - _NormalLayer1Scale: 0.4
     - _NormalLayer2Scale: 0.36
     - _NormalMoveScale: 0.0003

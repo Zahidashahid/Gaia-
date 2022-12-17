@@ -23,7 +23,7 @@ MonoBehaviour:
   m_terrainWidth: 128
   m_terrainDepth: 128
   m_terrainHeight: 128
-  m_seaLevel: 6.64
+  m_seaLevel: 5
   m_spawnDensity: 0.8
   m_isLocked: 0
   m_previewImageBytes: 
@@ -73,12 +73,23 @@ MonoBehaviour:
     sessionPlaybackState: 1
     m_terrainsFoldedOut: 0
     m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (7)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20221207 - 183043
+    m_operationDateTime: 12/9/2022 10:03:54 PM
+    scriptableObjectAssetGUID: 96258f572f57dce4c86f96f36b7eecf2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
   m_terrainMinMaxCache:
   - guid: 73b427812f471ba41b598eca57ed4088
     isWorldmap: 0
     recalculate: 0
-    min: 1.5117419
-    max: 45.23897
+    min: 0
+    max: 48.746838
   m_bakedMaskCacheEntries:
   - fileName: Terrain_0_0-20221207 - 183043_LayerGameObject_3584_12
     assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20221207
